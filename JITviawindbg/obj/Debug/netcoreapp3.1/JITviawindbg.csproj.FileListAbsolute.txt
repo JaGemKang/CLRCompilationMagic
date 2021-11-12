@@ -1,0 +1,14 @@
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\bin\Debug\netcoreapp3.1\JITviawindbg.exe
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\bin\Debug\netcoreapp3.1\JITviawindbg.deps.json
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\bin\Debug\netcoreapp3.1\JITviawindbg.runtimeconfig.json
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\bin\Debug\netcoreapp3.1\JITviawindbg.runtimeconfig.dev.json
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\bin\Debug\netcoreapp3.1\JITviawindbg.dll
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\bin\Debug\netcoreapp3.1\JITviawindbg.pdb
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.csproj.AssemblyReference.cache
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.AssemblyInfoInputs.cache
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.AssemblyInfo.cs
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.csproj.CoreCompileInputs.cache
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.dll
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.pdb
+C:\Users\owuor\Documents\Visual Studio 2019\Projects\CLRCompilationMagic\JITviawindbg\obj\Debug\netcoreapp3.1\JITviawindbg.genruntimeconfig.cache
